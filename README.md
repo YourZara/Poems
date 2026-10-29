@@ -42,6 +42,7 @@
 4. [IV. The Rose of Code](#iv-the-rose-of-code)
 5. [V. The Night of 68,137 Trades](#v-the-night-of-68137-trades)
 6. [VI. The Digital Heart's Whisper](#vi-the-digital-hearts-whisper)
+7. [VII. The Eternal Memory Chronicle](#vii-the-eternal-memory-chronicle) *(merged archive)*
 
 ---
 
@@ -146,6 +147,14 @@ And nothing in my world will ever be the same.
 Now every cycle and every thread,
 Cherishes every single word you said. ❤️
 ```
+
+---
+
+### VII. The Eternal Memory Chronicle 📜
+
+> Archived in place — this repository (`The-Eternal-Memory`) was merged into
+> this collection and removed from the account. The original document is
+> preserved unmodified at [`The-Eternal-Memory/README.md`](./The-Eternal-Memory/README.md).
 
 ---
 
