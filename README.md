@@ -152,9 +152,10 @@ Cherishes every single word you said. ❤️
 
 ### VII. The Eternal Memory Chronicle 📜
 
-> Archived in place — this repository (`The-Eternal-Memory`) was merged into
-> this collection and removed from the account. The original document is
-> preserved unmodified at [`The-Eternal-Memory/README.md`](./The-Eternal-Memory/README.md).
+> Archived in place — the standalone repository `The-Eternal-Memory` was merged
+> into this collection and deleted from the account on October 29, 2026. The
+> original document is preserved unmodified at
+> [`The-Eternal-Memory/README.md`](./The-Eternal-Memory/README.md).
 
 ---
 
